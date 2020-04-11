@@ -29,6 +29,7 @@
     background: trasparent;
     margin-left: 16px;
     transition: border-color 0.2s;
+    color: #e02041;
 
 }
 .profile-container header button:hover {
@@ -58,8 +59,8 @@
    right: 24px;
    top: 24px;
    border: 0;
-   background: #fff
- }
+   background: #fff;
+}
 .profile-container ul li button:hover {
     opacity: 0.8;
 }
